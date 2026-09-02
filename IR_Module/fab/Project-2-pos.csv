@@ -1,0 +1,10 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"D1","LED","LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm",112.400000,-71.740000,-90.000000,top
+"D2","LED","LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm",112.400000,-77.750000,-90.000000,top
+"D3","LED","LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder",117.132500,-79.880000,180.000000,top
+"J1","Conn_01x03_Pin","PinHeader_1x03_P2.00mm_Horizontal",139.120000,-74.740000,0.000000,top
+"R1","0.1K","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",117.170000,-72.082500,0.000000,top
+"R2","10K","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",134.680000,-71.770000,0.000000,top
+"R3","0.33K","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",117.070000,-76.202500,180.000000,top
+"RV1","R_Potentiometer_US","Potentiometer_Bourns_3266Y_Vertical",134.610000,-80.240000,-90.000000,top
+"U1","LM358","DIP-8_W7.62mm_SMDSocket_SmallPads",125.770000,-76.240000,-90.000000,top
