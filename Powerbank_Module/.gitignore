@@ -1,0 +1,36 @@
+# ---- KiCad ----
+# Auto-generated backups (KiCad recreates these locally)
+*-backups/
+
+# Lock files created while a board/schematic is open
+*.lck
+~*.lck
+_autosave-*
+*.kicad_prl
+
+# Footprint / symbol caches
+fp-info-cache
+sym-lib-table.bak
+fp-lib-table.bak
+
+# KiCad rescue / recovery files
+*-rescue.kicad_sch
+*-rescue.lib
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+*.000
+*.net
+*.bck
+*.dsn
+*.ses
+
+# KiCad 9 "distribute" scratch folder
+.dist/
+
+# ---- OS / editor ----
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+.vscode/
