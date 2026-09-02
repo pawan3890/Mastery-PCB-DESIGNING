@@ -5,6 +5,7 @@
       "defaults": {
         "apply_defaults_to_fp_fields": false,
         "apply_defaults_to_fp_shapes": false,
+        "apply_defaults_to_fp_shapes": false,
         "apply_defaults_to_fp_text": false,
         "board_outline_line_width": 0.05,
         "copper_line_width": 0.2,
@@ -23,6 +24,7 @@
           "suppress_zeroes": true,
           "text_position": 0,
           "units_format": 0
+
         },
         "fab_line_width": 0.1,
         "fab_text_italic": false,
